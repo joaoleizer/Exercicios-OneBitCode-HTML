@@ -1,2 +1,2 @@
 ##Viagens ao espaço
-Este primeiro exercício foi feito para treinar o uso das tags de lista, usando as tags <ul> lista não ordenada e <li> Que é usado para representar um item que faz parte de uma lista. 
+Este primeiro exercício foi feito para treinar o uso das tags de lista, usando as tags 'ul' lista não ordenada e 'li', Que é usado para representar um item que faz parte de uma lista. 
